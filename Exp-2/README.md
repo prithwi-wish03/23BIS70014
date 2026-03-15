@@ -23,4 +23,4 @@ A collection of projects showcasing advanced UI components, Material UI integrat
 - Framer Motion
 
 ---
-Developed by **Kumar Aditya**
+Developed by **Prithwish Pal**
