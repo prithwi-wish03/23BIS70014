@@ -8,7 +8,7 @@ A project focusing on interactive web elements, including dynamic lists, input h
 - Responsive layout using Vite and React.
 
 ## Screenshots
-![Home Preview](./src/assets/screenP.png)
+![Home Preview](./src/assets/ScreenP.png)
 ![Project Section](./src/assets/Screenshot%202026-01-27%20114442.png)
 ![Details View](./src/assets/Screenshot%202026-01-27%20114500.png)
 ![Mobile View 1](./src/assets/Screenshot%202026-01-27%20114522.png)
@@ -20,4 +20,4 @@ A project focusing on interactive web elements, including dynamic lists, input h
 - CSS Flexbox/Grid
 
 ---
-Developed by **Somraj Laskar**
+Developed by **Prithwish Pal**
